@@ -1,10 +1,10 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# created By ./Kitsune
-# Update 14 Juny 2021 10:57
-# Thanks FoR FourX, MhankBarBar, Maulana, ITachI
-# Underground Science And Termux Tutorial Group
+# created By ./akoeappank
+# Update 20 Mei 2025 22:30
+# Thanks FoR Allah
+# Underground Science
 # ---------------------------------------------------------------
 
 # -----------------------WARNA----------------------------
